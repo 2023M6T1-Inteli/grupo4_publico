@@ -1,0 +1,1 @@
+Esta pasta contém o código do módulo planejador.
