@@ -1,0 +1,52 @@
+.button-home {
+  width: 200px;
+  margin-top: 20px;
+}
+
+.button-default {
+  color: white;
+  border: 0;
+}
+
+.main-logo {
+  width: 100;
+  height: 100;
+  margin: 10px;
+}
+
+.center-content {
+  text-align: center;
+}
+
+.icon-style {
+  margin-right: 5px;
+  margin-right: 5px;
+}
+
+.upper-nav-bar {
+  justify-content: flex-start;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.order-card {
+  margin-top: 10px;
+}
+
+.calculation-list {
+  align-items: flex-start;
+  text-align: center;
+}
+
+.col-margin {
+  margin: 20px;
+}
+
+.margin-top-high {
+  margin-top: 40px;
+}

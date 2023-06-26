@@ -1,1 +1,0 @@
-Esta pasta contém o front end da aplicação.
